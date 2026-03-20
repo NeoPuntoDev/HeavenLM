@@ -2,16 +2,11 @@
   {
     "listId": "lista_1",
     "name": "Música Cristiana",
-    "videos": [
-      "YsKWrysdLSs",
-      "SbA83uN6U9E"
-    ]
+    "playlistId": "PLwru2S54GZtjVJJgoyrPbCxR0QUUddnZ0"
   },
   {
     "listId": "lista_2",
     "name": "Predicas",
-    "videos": [
-      "ibVFaiSrilk"
-    ]
+    "playlistId": "OTRO_ID_DE_LISTA"
   }
 ]
